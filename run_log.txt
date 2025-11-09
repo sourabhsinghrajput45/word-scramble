@@ -1,0 +1,13 @@
+[2025-11-05 23:09:09] Starting in D:\GammaEdge Tranning\Assignment 1\Poetry Project\word-scramble
+[2025-11-05 23:09:10] Launching Word Scramble once...
+[2025-11-05 23:09:16] Game closed normally.
+[2025-11-05 23:12:06] Project path: D:\GammaEdge Tranning\Assignment 1\Poetry Project\word-scramble
+[2025-11-05 23:12:08]  Poetry is installed.
+[2025-11-05 23:12:08]  Dependencies already locked. Skipping install.
+[2025-11-05 23:12:08] Launching Word Scramble (single run)...
+[2025-11-05 23:12:18]  Game closed normally.
+[2025-11-05 23:12:25] Project path: D:\GammaEdge Tranning\Assignment 1\Poetry Project\word-scramble
+[2025-11-05 23:12:27]  Poetry is installed.
+[2025-11-05 23:12:27]  Dependencies already locked. Skipping install.
+[2025-11-05 23:12:27] Launching Word Scramble (single run)...
+[2025-11-05 23:12:52]  Game closed normally.
